@@ -48,11 +48,7 @@ Educational Purposes: Learning how Bitcoin private keys and addresses work.
 Example Output
 
 
-Summary:
-Total Keys Checked: 2
-Valid Keys: 1
-Keys with Activity (Usable): 0
-Getting Started
+
 
 To use the program:
 
