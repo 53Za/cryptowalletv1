@@ -47,19 +47,6 @@ Security Audits: Checking the validity and usage of private keys in a wallet or 
 Educational Purposes: Learning how Bitcoin private keys and addresses work.
 Example Output
 
-Copy
-Checking private keys from bitcoin_1000_privkeys_2023-10-25.txt...
-Found 2 private keys to check.
-
-Checking Key #1: 5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF
-  Status: VALID
-  Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
-  Balance: 0.0 BTC
-  Total Received: 0.0 BTC
-  Usability: Valid but no funds/activity detected.
-
-Checking Key #2: L5EZftvrYaSudioOqUz1iD88D6mCg6t6Z1aCQw2J6Z1aCQw2J6
-  Status: INVALID - Invalid private key format
 
 Summary:
 Total Keys Checked: 2
